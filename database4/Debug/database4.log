@@ -1,0 +1,22 @@
+  Source.cpp
+D:\прога 2 сем\database4\database4\Source.cpp(4,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+D:\прога 2 сем\database4\database4\Source.cpp(51,24): warning C4086:  expected pragma parameter to be '1', '2', '4', '8', or '16'
+D:\прога 2 сем\database4\database4\Source.cpp(107,20): warning C4018:  '<': signed/unsigned mismatch
+D:\прога 2 сем\database4\database4\Source.cpp(140,20): warning C4018:  '<': signed/unsigned mismatch
+D:\прога 2 сем\database4\database4\Source.cpp(166,20): warning C4018:  '<': signed/unsigned mismatch
+D:\прога 2 сем\database4\database4\Source.cpp(190,21): warning C4129:  '|': unrecognized character escape sequence
+D:\прога 2 сем\database4\database4\Source.cpp(192,20): warning C4018:  '<': signed/unsigned mismatch
+D:\прога 2 сем\database4\database4\Source.cpp(886,7): warning C4101:  'str': unreferenced local variable
+D:\прога 2 сем\database4\database4\Source.cpp(1036,12): warning C4018:  '>=': signed/unsigned mismatch
+D:\прога 2 сем\database4\database4\Source.cpp(1070,21): warning C4018:  '<': signed/unsigned mismatch
+D:\прога 2 сем\database4\database4\Source.cpp(1926,7): warning C4101:  'str': unreferenced local variable
+D:\прога 2 сем\database4\database4\Source.cpp(2216,12): warning C4018:  '<': signed/unsigned mismatch
+D:\прога 2 сем\database4\database4\Source.cpp(2357,12): warning C4018:  '<': signed/unsigned mismatch
+D:\прога 2 сем\database4\database4\Source.cpp(2625,39): warning C4244:  'argument': conversion from 'double' to 'unsigned int', possible loss of data
+D:\прога 2 сем\database4\database4\Source.cpp(2703,3): warning C4060:  switch statement contains no 'case' or 'default' labels
+D:\прога 2 сем\database4\database4\Source.cpp(2390,77): warning C4101:  'input_header': unreferenced local variable
+D:\прога 2 сем\database4\database4\Source.cpp(2387,7): warning C4101:  'mas': unreferenced local variable
+D:\прога 2 сем\database4\database4\Source.cpp(2390,91): warning C4101:  'input_string': unreferenced local variable
+D:\прога 2 сем\database4\database4\Source.cpp(2388,95): warning C4101:  'str': unreferenced local variable
+D:\прога 2 сем\database4\database4\Source.cpp(2715,7): warning C4101:  'mas': unreferenced local variable
+  database4.vcxproj -> D:\прога 2 сем\database4\Debug\database4.exe
